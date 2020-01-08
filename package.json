@@ -1,0 +1,24 @@
+{
+  "name": "gira",
+  "version": "1.0.0",
+  "description": "Small node module to copy commit messages to jira",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorhearnyeates/gira.git"
+  },
+  "author": "Victor Hearn-Yeates",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorhearnyeates/gira/issues"
+  },
+  "homepage": "https://github.com/victorhearnyeates/gira#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "https": "^1.0.0",
+    "shell.js": "^3.1.0"
+  }
+}
