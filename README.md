@@ -6,6 +6,8 @@ node /path/to/package/index.js "jiraNo" "Comment to add to git and to jira ticke
 or, if installed
 ```
 gira "jiraNo" "Comment to add to git and to jira ticket"
+gira -a /file/to/add
+gira status
 ```
 
 ## Set Up Instructions
